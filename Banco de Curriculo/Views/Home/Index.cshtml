@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<style>
+    .Curriculo-Botao {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
+<div class="jumbotron" style="background-image:url(/Content/imagens/banner.jpg)">
+
+</div>
+
+
+<div class="row" style="    border-top: 1px solid #004373;
+    margin-top: 44px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;">
+    <div class="Curriculo-Botao">
+        <h2>Cadastre seu Curriculo</h2>
+
+        <p><a href="/account/register" class="btn btn-default">Clique aqui</a></p>
+    </div>
+    @if (Request.IsAuthenticated)
+    {
+
+        <div class="Curriculo-Botao">
+            <h2>Area Restrita</h2>
+
+            <p><a href="/Usuarios" class="btn btn-default">Clique para Acessar</a></p>
+        </div>
+    }
+</div>
+
+

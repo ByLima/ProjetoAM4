@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banco de Currículos - AM4</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/banner.css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style>
+        .navbar {
+            background-color: #004373 !important;
+            color:white;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header" style="display: flex;  justify-content: space-around;    align-items: center;">
+                <img src="~/Content/imagens/am4.png"  style="margin-right:12px;"/>
+            
+                @Html.ActionLink("Banco de Curriculo", "Index", "Home", new { area = "" }, new { @class = "navbar-brand", @style="color:white" })
+            </div>
+            <div class="navbar-collapse collapse">
+               
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Todos os Direitos Reservados</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

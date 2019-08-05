@@ -1,0 +1,28 @@
+﻿body {
+    background: #eeeeee;
+}
+.jumbotron {
+    display: flex;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin: -15px;
+    padding: 182px;
+}
+    
+.texto-Banner{
+    text-align:center;
+
+}
+.texto-Banner h2{
+border-color: black;
+border-radius:5px;
+padding-left: 73px;
+text-align: justify;
+font-style: italic;
+font-family: serif, helvetica;
+font-size: 35px;
+}
+
+.Curriculo-Botao{
+    align-content:center;
+}

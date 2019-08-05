@@ -1,0 +1,230 @@
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Banco de Curriculo.dll.config
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Banco de Curriculo.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Banco de Curriculo.pdb
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csc.exe
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csc.exe.config
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csc.rsp
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csi.exe
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csi.exe.config
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csi.rsp
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.AppContext.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Console.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\vbc.exe
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\vbc.exe.config
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\vbc.rsp
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Antlr3.Runtime.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\EntityFramework.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\EntityFramework.SqlServer.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Newtonsoft.Json.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Owin.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Helpers.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Mvc.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Optimization.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Razor.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\WebGrease.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Helpers.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Mvc.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Optimization.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Razor.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Newtonsoft.Json.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Antlr3.Runtime.pdb
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\EntityFramework.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\EntityFramework.SqlServer.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\obj\Debug\Banco de Curriculo.csprojAssemblyReference.cache
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\obj\Debug\Banco de Curriculo.csproj.CoreCompileInputs.cache
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\obj\Debug\Banco de Curriculo.csproj.CopyComplete
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\obj\Debug\Banco de Curriculo.dll
+C:\Users\Patrique Arruda\source\repos\Banco de Curriculo\Banco de Curriculo\obj\Debug\Banco de Curriculo.pdb
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Banco de Curriculo.dll.config
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Banco de Curriculo.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Banco de Curriculo.pdb
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csc.exe
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csc.exe.config
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csc.rsp
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csi.exe
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csi.exe.config
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\csi.rsp
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.AppContext.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Console.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.IO.Compression.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Claims.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.ValueTuple.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\vbc.exe
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\vbc.exe.config
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\vbc.rsp
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\VBCSCompiler.exe
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Antlr3.Runtime.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\EntityFramework.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\EntityFramework.SqlServer.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Newtonsoft.Json.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Owin.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Helpers.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Mvc.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Optimization.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Razor.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.Razor.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\WebGrease.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Helpers.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Mvc.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Optimization.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.Razor.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\System.Web.WebPages.Razor.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Newtonsoft.Json.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Antlr3.Runtime.pdb
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\EntityFramework.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\EntityFramework.SqlServer.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\obj\Debug\Banco de Curriculo.csprojAssemblyReference.cache
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\obj\Debug\Banco de Curriculo.csproj.CoreCompileInputs.cache
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\obj\Debug\Banco de Curriculo.csproj.CopyComplete
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\obj\Debug\Banco de Curriculo.dll
+C:\Users\BIANCA\source\repos\Banco de Curriculo\Banco de Curriculo\obj\Debug\Banco de Curriculo.pdb
